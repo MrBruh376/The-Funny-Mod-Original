@@ -1,6 +1,6 @@
 # The-Funny-Mod-Original
 
-hello yes, this is the README for The Funny Mod, made for minecraft 1.17.1, created by ElRasho21 on curseforge and 'el rasho#9177' on discord 👍
+hello yes, this is the README for The Funny Mod, made for minecraft 1.17.1, created by ElRasho21 on curseforge, MrBruh376 on github and 'el rasho#9177' on discord 👍
 
 What you can do (if you are very cool and awesome): Make your own addons to the funny mod, use the funny mod in minecraft for both single player and multi player, distribute the funny mod, look at the funny mod and look at the source code, ask for new things to add to addons for the funny mod (or make addons yourself)
 
